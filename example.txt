@@ -1,0 +1,7 @@
+Welcome to Git Bash!
+This is an example file created using Git Bash.
+Feel free to modify it as needed.
+
+
+
+
